@@ -1,1 +1,2 @@
 # Riseinterns
+pracice for sql
