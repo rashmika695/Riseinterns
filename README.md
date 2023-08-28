@@ -1,3 +1,4 @@
 # Riseinterns
-new Task
-java problem
+
+pracice for sql
+practice for sql
